@@ -1,0 +1,6 @@
+x = 3
+if x > 3 then
+  print("o")
+else
+  print("a")
+end
